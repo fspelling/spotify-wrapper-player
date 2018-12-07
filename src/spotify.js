@@ -1,7 +1,7 @@
 import SpotifyWrapper from 'spotify-wrapper';
 
 const spotify = new SpotifyWrapper({
-    token: 'token'
+    token: '123456789'
 });
 
 export default spotify;
